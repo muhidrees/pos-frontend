@@ -1,10 +1,13 @@
+import React from "react";
+
 function App() {
 
+
   return (
-<div>
-  <h1 className='text-green-600'>Hello Word !</h1>
-</div>
-  )
+   <>
+   <h1>Hello</h1>
+   </>
+  );
 }
 
-export default App
+export default App;
